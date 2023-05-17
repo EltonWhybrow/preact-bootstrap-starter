@@ -10,7 +10,7 @@ This template project uses [Preact](https://preactjs.com/) and [Bootstrap 5](htt
 First clone this repo (replace myapp with the name of your app):
 
 ``` bash
-git clone https://github.com/aletome/preact-bootstrap-template.git myapp
+git clone https://github.com/EltonWhybrow/preact-bootstrap-starter.git myapp
 cd myapp
 ```
 
