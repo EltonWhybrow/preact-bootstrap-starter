@@ -43,7 +43,7 @@ npm run build
 # test the production build locally
 npm run serve
 
-# run tests with jest and enzyme
+# none currently
 npm run test
 
 # purge css from build folder (it is automatically called from build command)
